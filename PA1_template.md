@@ -129,6 +129,8 @@ median(imputeDataSumByDate$steps)
 ## [1] 10395
 ```
 
+The values of mean and median shall differ from the original.
+The impact is such that mean and median are lower than the original.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 1.Create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
